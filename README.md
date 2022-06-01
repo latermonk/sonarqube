@@ -6,6 +6,11 @@ https://docs.sonarqube.org/latest/setup/install-server/
 
 
 
+https://github.com/SonarSource/docker-sonarqube/blob/master/example-compose-files/sq-with-postgres/docker-compose.yml    
+
+
+
+
 
 ## Docker-compose
 
