@@ -2,6 +2,11 @@
 
 
 
+https://docs.sonarqube.org/latest/setup/install-server/
+
+
+
+
 ## Docker-compose
 
 
